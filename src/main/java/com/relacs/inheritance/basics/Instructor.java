@@ -1,4 +1,4 @@
-package com.relacs.inheritancebasics;
+package com.relacs.inheritance.basics;
 
 public class Instructor extends User{
     public String batchName;

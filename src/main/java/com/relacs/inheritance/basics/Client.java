@@ -1,4 +1,4 @@
-package com.relacs.inheritancebasics;
+package com.relacs.inheritance.basics;
 
 public class Client {
     public static void main(String[] args) {
