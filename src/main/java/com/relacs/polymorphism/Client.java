@@ -23,4 +23,5 @@ class User{
 
 class Instructor extends User {
     String batchName;
+
 }
