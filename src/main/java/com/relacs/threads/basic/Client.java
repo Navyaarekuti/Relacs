@@ -1,4 +1,6 @@
-package com.relacs.thread.basic;
+package com.relacs.threads.basic;
+
+import com.relacs.threads.basic.BasicThread;
 
 public class Client {
     public static void main(String[] args) {

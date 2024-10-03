@@ -1,4 +1,4 @@
-package com.relacs.thread.basic;
+package com.relacs.threads.basic;
 
 public class BasicThread implements Runnable{
     @Override
